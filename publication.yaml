@@ -1,0 +1,26 @@
+- 
+  title: How to write web sites with slim
+  author: R. Robota, T. Tanaka
+  journal: Ruby Journal
+  year: 2010
+  volume: 10
+  page: 1-7
+  arxiv: 1234.56789
+
+- 
+  title: Using YAML file with slim
+  author: R. Robota
+  journal: Journal of Slim
+  year: 2018
+  volume: 8
+  page: 1275
+
+- 
+  title: This is a sample file for Slim and YAML
+  author: S. Yaml, T. XML and R. Robota
+  journal: J. Yaml. Phys. 
+  year: 2017
+  volume: 3
+  page: 12-18
+  arxiv: 1908.01234
+

@@ -1,0 +1,16 @@
+doctype html
+html
+  - require 'yaml'
+  - require './myhash.rb'
+  head
+    title Publication List
+  body
+    h1 Publication List
+    ol
+      - YAML.load_file("publication.yaml").each do |d|
+        li :dl
+          dt = d.title
+          dd == d.journal_ref
+          dd = d.author
+          - if d.arxiv
+            dd == d.arxiv_ref
