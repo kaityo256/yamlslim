@@ -38,6 +38,8 @@
 
 ![HTML出力結果](html_img.png)
 
+[Qiitaに書いた記事](https://qiita.com/kaityo256/items/3a6f1e1e253ab3da158a)も参照してください。
+
 ## 使い方
 
 ローカルにRubyとSlimがインストールされている必要があります。Rubyが入っていれば、
